@@ -1,0 +1,5 @@
+The class library types we looked was:
+.net framework class library - This can be only compiled on windows
+.net core class library - it can be compiled on cross platform (mac, windows, linux)
+.net standard class library - it can be compiled on (mac, windows, linux, android, ios).NET Standard solves the code sharing problem for .NET developers across all platforms by bringing 
+all the APIs that you expect and love across the environments that you need: desktop applications, mobile apps & games, and cloud services
